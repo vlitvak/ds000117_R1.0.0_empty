@@ -1,0 +1,2929 @@
+************************************************************
+*** This is Elekta Neuromag MaxFilter(TM) version 2.2.10  ***
+*** Compilation date: Oct 11 2010 14:45:43               ***
+*** Please report problems to sw-support@neuromag.fi     ***
+************************************************************
+No processing records found.
+SSS origin (head) 3.0, 9.0, 40.0 mm.
+Time scale: #f = 170.000 s, #l = 380.000 s  (initial skip #s = 170.000 s)
+Using the virtual transformation from /imaging/dw01/meg_fix/subject_01/meg/run_04_raw.fif.
+Applying the fine-calibration in /neuro/databases/sss/sss_cal.dat.
+Using the cross-talk matrix in /neuro/databases/ctc/ct_sparse.fif.
+Opened FIFF file /imaging/dw01/meg_fix/subject_01/meg/run_03_raw.fif (210 data buffers).
+Started result FIFF file /imaging/dw01/meg_fix/subject_01/meg/run_03_sss.fif.
+Signal Space Separation: Movement compensation for Elekta Neuromag data.
+HPIFIT: 5 coils digitized in order 1 2 5 4 3 
+HPIFIT: 3 coils accepted: 1 2 4 
+Coordinate transformations:
+  0.9996  -0.0247   0.0144 !  0.9996  -0.0274   0.0085
+  0.0235   0.9967   0.0779 !  0.0267   0.9968   0.0748
+ -0.0163  -0.0776   0.9969 ! -0.0106  -0.0745   0.9972
+  1.4746 -12.4730  56.3023 !  1.4609 -12.4237  56.5991
+Rotation change 0.0, -0.0, -0.0 degrees
+Position change (0.0, -0.0, -0.3) = 0.3 mm
+Found 395 total and 306 MEG channels.
+SSS: 67/80 inside and 13/15 outside harmonic components.
+CTC: Channel lists of the (306 x 306) matrix OK.
+Using 5 HPI coils: 293 307 314 321 328 Hz
+Line interference frequencies: 50 100 150 200 250 300 350 400 Hz
+HPIFIT errors:  0.6, 1.1, 3.9, 0.7, 4.9 mm.
+HPI consistency of isotrak and hpifit is OK.
+Storing head positions to /imaging/dw01/meg_fix/subject_01/meg/./run_03_headpos.txt
+Scanning bad channels #1/210[5D2/210[5D3/210[5D4/210[5D5/210[5D6/210[5D7/210[5D8/210[5D9/210[5D10/210[6D11/210[6D12/210[6D13/210[6D14/210[6D15/210[6D16/210[6D17/210[6D18/210[6D19/210[6D20/210[6D21/210[6D22/210[6D23/210[6D24/210[6D25/210[6D26/210[6D27/210[6D28/210[6D29/210[6D30/210[6D31/210[6D32/210[6D33/210[6D34/210[6D35/210[6D36/210[6D37/210[6D38/210[6D39/210[6D40/210[6D41/210[6D42/210[6D43/210[6D44/210[6D45/210[6D46/210[6D47/210[6D48/210[6D49/210[6D50/210[6D51/210[6D52/210[6D53/210[6D54/210[6D55/210[6D56/210[6D57/210[6D58/210[6D59/210[6D60/210[6D61/210[6D62/210[6D63/210[6D64/210[6D65/210[6D66/210[6D67/210[6D68/210[6D69/210[6D70/210[6D71/210[6D72/210[6D73/210[6D74/210[6D75/210[6D76/210[6D77/210[6D78/210[6D79/210[6D80/210[6D81/210[6D82/210[6D83/210[6D84/210[6D85/210[6D86/210[6D87/210[6D88/210[6D89/210[6D90/210[6D91/210[6D92/210[6D93/210[6D94/210[6D95/210[6D96/210[6D97/210[6D98/210[6D99/210[6D100/210[7D101/210[7D102/210[7D103/210[7D104/210[7D105/210[7D106/210[7D107/210[7D108/210[7D109/210[7D110/210[7D111/210[7D112/210[7D113/210[7D114/210[7D115/210[7D116/210[7D117/210[7D118/210[7D119/210[7D120/210[7D121/210[7D122/210[7D123/210[7D124/210[7D125/210[7D126/210[7D127/210[7D128/210[7D129/210[7D130/210[7D131/210[7D132/210[7D133/210[7D134/210[7D135/210[7D136/210[7D137/210[7D138/210[7D139/210[7D140/210[7D141/210[7D142/210[7D143/210[7D144/210[7D145/210[7D146/210[7D147/210[7D148/210[7D149/210[7D150/210[7D151/210[7D152/210[7D153/210[7D154/210[7D155/210[7D156/210[7D157/210[7D158/210[7D159/210[7D160/210[7D161/210[7D162/210[7D163/210[7D164/210[7D165/210[7D166/210[7D167/210[7D168/210[7D169/210[7D170/210[7D171/210[7D172/210[7D173/210[7D174/210[7D175/210[7D176/210[7D177/210[7D178/210[7D179/210[7D180/210[7D181/210[7D182/210[7D183/210[7D184/210[7D185/210[7D186/210[7D187/210[7D188/210[7D189/210[7D190/210[7D191/210[7D192/210[7D193/210[7D194/210[7D195/210[7D196/210[7D197/210[7D198/210[7D199/210[7D200/210[7D201/210[7D202/210[7D203/210[7D204/210[7D205/210[7D206/210[7D207/210[7D208/210[7D209/210[7D210/210
+Autobad scan found 2 bad channels.
+Static bad channels (2): 1031 1111
+--- Reading raw tag #b = 1/210 (#t = 170.000) ---
+--- Reading raw tag #b = 2/210 (#t = 171.000) ---
+--- Reading raw tag #b = 3/210 (#t = 172.000) ---
+Static bad channels (2): 1031 1111
+Time 170.000: cont HPI is off, using the previous head position!
+   20.4   99.5   69.9 /  19.9   99.8   69.7 / g = 0.996 err =  0.6 mm / 1.000 -0.025  0.014
+   74.1    6.4   97.4 /  75.1    6.5   97.8 / g = 0.999 err =  1.1 mm / 0.024  0.997  0.078
+  -77.3   -9.9   78.6 / -80.0   -9.1   81.3 / g = 0.999 err =  3.9 mm /-0.016 -0.078  0.997
+   14.3  -91.2   83.9 /  13.7  -91.6   83.7 / g = 0.999 err =  0.7 mm /   1.5  -12.5   56.3
+   18.9  -20.4  133.2 /  19.7  -21.0  138.0 / g = 0.998 err =  4.9 mm /
+#t = 170.000, #e = 0.00 cm, #g = 0.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.00 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 4/210 (#t = 173.000) ---
+Static bad channels (2): 1031 1111
+Time 171.000: cont HPI is off, using the previous head position!
+   20.4   99.5   69.9 /  19.9   99.8   69.7 / g = 0.996 err =  0.6 mm / 1.000 -0.025  0.014
+   74.1    6.4   97.4 /  75.1    6.5   97.8 / g = 0.999 err =  1.1 mm / 0.024  0.997  0.078
+  -77.3   -9.9   78.6 / -80.0   -9.1   81.3 / g = 0.999 err =  3.9 mm /-0.016 -0.078  0.997
+   14.3  -91.2   83.9 /  13.7  -91.6   83.7 / g = 0.999 err =  0.7 mm /   1.5  -12.5   56.3
+   18.9  -20.4  133.2 /  19.7  -21.0  138.0 / g = 0.998 err =  4.9 mm /
+#t = 171.000, #e = 0.00 cm, #g = 0.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.00 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 5/210 (#t = 174.000) ---
+Static bad channels (2): 1031 1111
+Time 172.000: cont HPI is off, using the previous head position!
+   20.4   99.5   69.9 /  19.9   99.8   69.7 / g = 0.996 err =  0.6 mm / 1.000 -0.025  0.014
+   74.1    6.4   97.4 /  75.1    6.5   97.8 / g = 0.999 err =  1.1 mm / 0.024  0.997  0.078
+  -77.3   -9.9   78.6 / -80.0   -9.1   81.3 / g = 0.999 err =  3.9 mm /-0.016 -0.078  0.997
+   14.3  -91.2   83.9 /  13.7  -91.6   83.7 / g = 0.999 err =  0.7 mm /   1.5  -12.5   56.3
+   18.9  -20.4  133.2 /  19.7  -21.0  138.0 / g = 0.998 err =  4.9 mm /
+#t = 172.000, #e = 0.00 cm, #g = 0.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.00 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 6/210 (#t = 175.000) ---
+Static bad channels (2): 1031 1111
+Time 173.000: cont HPI is off, using the previous head position!
+   20.4   99.5   69.9 /  19.9   99.8   69.7 / g = 0.996 err =  0.6 mm / 1.000 -0.025  0.014
+   74.1    6.4   97.4 /  75.1    6.5   97.8 / g = 0.999 err =  1.1 mm / 0.024  0.997  0.078
+  -77.3   -9.9   78.6 / -80.0   -9.1   81.3 / g = 0.999 err =  3.9 mm /-0.016 -0.078  0.997
+   14.3  -91.2   83.9 /  13.7  -91.6   83.7 / g = 0.999 err =  0.7 mm /   1.5  -12.5   56.3
+   18.9  -20.4  133.2 /  19.7  -21.0  138.0 / g = 0.998 err =  4.9 mm /
+#t = 173.000, #e = 0.00 cm, #g = 0.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.00 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 7/210 (#t = 176.000) ---
+Static bad channels (2): 1031 1111
+Time 174.000: cont HPI is off, using the previous head position!
+   20.4   99.5   69.9 /  19.9   99.8   69.7 / g = 0.996 err =  0.6 mm / 1.000 -0.025  0.014
+   74.1    6.4   97.4 /  75.1    6.5   97.8 / g = 0.999 err =  1.1 mm / 0.024  0.997  0.078
+  -77.3   -9.9   78.6 / -80.0   -9.1   81.3 / g = 0.999 err =  3.9 mm /-0.016 -0.078  0.997
+   14.3  -91.2   83.9 /  13.7  -91.6   83.7 / g = 0.999 err =  0.7 mm /   1.5  -12.5   56.3
+   18.9  -20.4  133.2 /  19.7  -21.0  138.0 / g = 0.998 err =  4.9 mm /
+#t = 174.000, #e = 0.00 cm, #g = 0.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.00 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 8/210 (#t = 177.000) ---
+Static bad channels (2): 1031 1111
+Time 175.000: cont HPI is off, using the previous head position!
+   20.4   99.5   69.9 /  19.9   99.8   69.7 / g = 0.996 err =  0.6 mm / 1.000 -0.025  0.014
+   74.1    6.4   97.4 /  75.1    6.5   97.8 / g = 0.999 err =  1.1 mm / 0.024  0.997  0.078
+  -77.3   -9.9   78.6 / -80.0   -9.1   81.3 / g = 0.999 err =  3.9 mm /-0.016 -0.078  0.997
+   14.3  -91.2   83.9 /  13.7  -91.6   83.7 / g = 0.999 err =  0.7 mm /   1.5  -12.5   56.3
+   18.9  -20.4  133.2 /  19.7  -21.0  138.0 / g = 0.998 err =  4.9 mm /
+#t = 175.000, #e = 0.00 cm, #g = 0.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.00 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 9/210 (#t = 178.000) ---
+Static bad channels (2): 1031 1111
+Time 176.000: cont HPI is off, using the previous head position!
+   20.4   99.5   69.9 /  19.9   99.8   69.7 / g = 0.996 err =  0.6 mm / 1.000 -0.025  0.014
+   74.1    6.4   97.4 /  75.1    6.5   97.8 / g = 0.999 err =  1.1 mm / 0.024  0.997  0.078
+  -77.3   -9.9   78.6 / -80.0   -9.1   81.3 / g = 0.999 err =  3.9 mm /-0.016 -0.078  0.997
+   14.3  -91.2   83.9 /  13.7  -91.6   83.7 / g = 0.999 err =  0.7 mm /   1.5  -12.5   56.3
+   18.9  -20.4  133.2 /  19.7  -21.0  138.0 / g = 0.998 err =  4.9 mm /
+#t = 176.000, #e = 0.00 cm, #g = 0.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.00 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 10/210 (#t = 179.000) ---
+Static bad channels (2): 1031 1111
+Time 177.000: cont HPI is off, using the previous head position!
+   20.4   99.5   69.9 /  19.9   99.8   69.7 / g = 0.996 err =  0.6 mm / 1.000 -0.025  0.014
+   74.1    6.4   97.4 /  75.1    6.5   97.8 / g = 0.999 err =  1.1 mm / 0.024  0.997  0.078
+  -77.3   -9.9   78.6 / -80.0   -9.1   81.3 / g = 0.999 err =  3.9 mm /-0.016 -0.078  0.997
+   14.3  -91.2   83.9 /  13.7  -91.6   83.7 / g = 0.999 err =  0.7 mm /   1.5  -12.5   56.3
+   18.9  -20.4  133.2 /  19.7  -21.0  138.0 / g = 0.998 err =  4.9 mm /
+#t = 177.000, #e = 0.00 cm, #g = 0.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.00 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 11/210 (#t = 180.000) ---
+Static bad channels (2): 1031 1111
+Time 178.000: cont HPI is off, using the previous head position!
+   20.4   99.5   69.9 /  19.9   99.8   69.7 / g = 0.996 err =  0.6 mm / 1.000 -0.025  0.014
+   74.1    6.4   97.4 /  75.1    6.5   97.8 / g = 0.999 err =  1.1 mm / 0.024  0.997  0.078
+  -77.3   -9.9   78.6 / -80.0   -9.1   81.3 / g = 0.999 err =  3.9 mm /-0.016 -0.078  0.997
+   14.3  -91.2   83.9 /  13.7  -91.6   83.7 / g = 0.999 err =  0.7 mm /   1.5  -12.5   56.3
+   18.9  -20.4  133.2 /  19.7  -21.0  138.0 / g = 0.998 err =  4.9 mm /
+#t = 178.000, #e = 0.00 cm, #g = 0.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.00 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 12/210 (#t = 181.000) ---
+Static bad channels (2): 1031 1111
+Time 179.000: cont HPI is off, using the previous head position!
+   20.4   99.5   69.9 /  19.9   99.8   69.7 / g = 0.996 err =  0.6 mm / 1.000 -0.025  0.014
+   74.1    6.4   97.4 /  75.1    6.5   97.8 / g = 0.999 err =  1.1 mm / 0.024  0.997  0.078
+  -77.3   -9.9   78.6 / -80.0   -9.1   81.3 / g = 0.999 err =  3.9 mm /-0.016 -0.078  0.997
+   14.3  -91.2   83.9 /  13.7  -91.6   83.7 / g = 0.999 err =  0.7 mm /   1.5  -12.5   56.3
+   18.9  -20.4  133.2 /  19.7  -21.0  138.0 / g = 0.998 err =  4.9 mm /
+#t = 179.000, #e = 0.00 cm, #g = 0.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.00 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 13/210 (#t = 182.000) ---
+Static bad channels (2): 1031 1111
+Time 180.000: cont HPI is off, using the previous head position!
+   20.4   99.5   69.9 /  19.9   99.8   69.7 / g = 0.996 err =  0.6 mm / 1.000 -0.025  0.014
+   74.1    6.4   97.4 /  75.1    6.5   97.8 / g = 0.999 err =  1.1 mm / 0.024  0.997  0.078
+  -77.3   -9.9   78.6 / -80.0   -9.1   81.3 / g = 0.999 err =  3.9 mm /-0.016 -0.078  0.997
+   14.3  -91.2   83.9 /  13.7  -91.6   83.7 / g = 0.999 err =  0.7 mm /   1.5  -12.5   56.3
+   18.9  -20.4  133.2 /  19.7  -21.0  138.0 / g = 0.998 err =  4.9 mm /
+#t = 180.000, #e = 0.00 cm, #g = 0.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.00 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 14/210 (#t = 183.000) ---
+Static bad channels (2): 1031 1111
+Time 181.000: cont HPI is off, using the previous head position!
+   20.4   99.5   69.9 /  19.9   99.8   69.7 / g = 0.996 err =  0.6 mm / 1.000 -0.025  0.014
+   74.1    6.4   97.4 /  75.1    6.5   97.8 / g = 0.999 err =  1.1 mm / 0.024  0.997  0.078
+  -77.3   -9.9   78.6 / -80.0   -9.1   81.3 / g = 0.999 err =  3.9 mm /-0.016 -0.078  0.997
+   14.3  -91.2   83.9 /  13.7  -91.6   83.7 / g = 0.999 err =  0.7 mm /   1.5  -12.5   56.3
+   18.9  -20.4  133.2 /  19.7  -21.0  138.0 / g = 0.998 err =  4.9 mm /
+#t = 181.000, #e = 0.00 cm, #g = 0.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.00 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 15/210 (#t = 184.000) ---
+Static bad channels (2): 1031 1111
+Time 182.000: cont HPI is off, using the previous head position!
+   20.4   99.5   69.9 /  19.9   99.8   69.7 / g = 0.996 err =  0.6 mm / 1.000 -0.025  0.014
+   74.1    6.4   97.4 /  75.1    6.5   97.8 / g = 0.999 err =  1.1 mm / 0.024  0.997  0.078
+  -77.3   -9.9   78.6 / -80.0   -9.1   81.3 / g = 0.999 err =  3.9 mm /-0.016 -0.078  0.997
+   14.3  -91.2   83.9 /  13.7  -91.6   83.7 / g = 0.999 err =  0.7 mm /   1.5  -12.5   56.3
+   18.9  -20.4  133.2 /  19.7  -21.0  138.0 / g = 0.998 err =  4.9 mm /
+#t = 182.000, #e = 0.00 cm, #g = 0.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.00 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 16/210 (#t = 185.000) ---
+Static bad channels (2): 1031 1111
+Time 183.000: cont HPI is off, using the previous head position!
+   20.4   99.5   69.9 /  19.9   99.8   69.7 / g = 0.996 err =  0.6 mm / 1.000 -0.025  0.014
+   74.1    6.4   97.4 /  75.1    6.5   97.8 / g = 0.999 err =  1.1 mm / 0.024  0.997  0.078
+  -77.3   -9.9   78.6 / -80.0   -9.1   81.3 / g = 0.999 err =  3.9 mm /-0.016 -0.078  0.997
+   14.3  -91.2   83.9 /  13.7  -91.6   83.7 / g = 0.999 err =  0.7 mm /   1.5  -12.5   56.3
+   18.9  -20.4  133.2 /  19.7  -21.0  138.0 / g = 0.998 err =  4.9 mm /
+#t = 183.000, #e = 0.00 cm, #g = 0.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.00 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 17/210 (#t = 186.000) ---
+Static bad channels (2): 1031 1111
+Time 184.000: cont HPI is off, using the previous head position!
+   20.4   99.5   69.9 /  19.9   99.8   69.7 / g = 0.996 err =  0.6 mm / 1.000 -0.025  0.014
+   74.1    6.4   97.4 /  75.1    6.5   97.8 / g = 0.999 err =  1.1 mm / 0.024  0.997  0.078
+  -77.3   -9.9   78.6 / -80.0   -9.1   81.3 / g = 0.999 err =  3.9 mm /-0.016 -0.078  0.997
+   14.3  -91.2   83.9 /  13.7  -91.6   83.7 / g = 0.999 err =  0.7 mm /   1.5  -12.5   56.3
+   18.9  -20.4  133.2 /  19.7  -21.0  138.0 / g = 0.998 err =  4.9 mm /
+#t = 184.000, #e = 0.00 cm, #g = 0.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.00 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 18/210 (#t = 187.000) ---
+Static bad channels (2): 1031 1111
+Time 185.000: cont HPI is off, using the previous head position!
+   20.4   99.5   69.9 /  19.9   99.8   69.7 / g = 0.996 err =  0.6 mm / 1.000 -0.025  0.014
+   74.1    6.4   97.4 /  75.1    6.5   97.8 / g = 0.999 err =  1.1 mm / 0.024  0.997  0.078
+  -77.3   -9.9   78.6 / -80.0   -9.1   81.3 / g = 0.999 err =  3.9 mm /-0.016 -0.078  0.997
+   14.3  -91.2   83.9 /  13.7  -91.6   83.7 / g = 0.999 err =  0.7 mm /   1.5  -12.5   56.3
+   18.9  -20.4  133.2 /  19.7  -21.0  138.0 / g = 0.998 err =  4.9 mm /
+#t = 185.000, #e = 0.00 cm, #g = 0.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.00 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 19/210 (#t = 188.000) ---
+Static bad channels (2): 1031 1111
+Time 186.000: cont HPI is off, using the previous head position!
+   20.4   99.5   69.9 /  19.9   99.8   69.7 / g = 0.996 err =  0.6 mm / 1.000 -0.025  0.014
+   74.1    6.4   97.4 /  75.1    6.5   97.8 / g = 0.999 err =  1.1 mm / 0.024  0.997  0.078
+  -77.3   -9.9   78.6 / -80.0   -9.1   81.3 / g = 0.999 err =  3.9 mm /-0.016 -0.078  0.997
+   14.3  -91.2   83.9 /  13.7  -91.6   83.7 / g = 0.999 err =  0.7 mm /   1.5  -12.5   56.3
+   18.9  -20.4  133.2 /  19.7  -21.0  138.0 / g = 0.998 err =  4.9 mm /
+#t = 186.000, #e = 0.00 cm, #g = 0.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.00 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 20/210 (#t = 189.000) ---
+Static bad channels (2): 1031 1111
+Time 187.000: cont HPI is off, using the previous head position!
+   20.4   99.5   69.9 /  19.9   99.8   69.7 / g = 0.996 err =  0.6 mm / 1.000 -0.025  0.014
+   74.1    6.4   97.4 /  75.1    6.5   97.8 / g = 0.999 err =  1.1 mm / 0.024  0.997  0.078
+  -77.3   -9.9   78.6 / -80.0   -9.1   81.3 / g = 0.999 err =  3.9 mm /-0.016 -0.078  0.997
+   14.3  -91.2   83.9 /  13.7  -91.6   83.7 / g = 0.999 err =  0.7 mm /   1.5  -12.5   56.3
+   18.9  -20.4  133.2 /  19.7  -21.0  138.0 / g = 0.998 err =  4.9 mm /
+#t = 187.000, #e = 0.00 cm, #g = 0.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.00 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 21/210 (#t = 190.000) ---
+Static bad channels (2): 1031 1111
+Time 188.000: cont HPI is off, using the previous head position!
+   20.4   99.5   69.9 /  19.9   99.8   69.7 / g = 0.996 err =  0.6 mm / 1.000 -0.025  0.014
+   74.1    6.4   97.4 /  75.1    6.5   97.8 / g = 0.999 err =  1.1 mm / 0.024  0.997  0.078
+  -77.3   -9.9   78.6 / -80.0   -9.1   81.3 / g = 0.999 err =  3.9 mm /-0.016 -0.078  0.997
+   14.3  -91.2   83.9 /  13.7  -91.6   83.7 / g = 0.999 err =  0.7 mm /   1.5  -12.5   56.3
+   18.9  -20.4  133.2 /  19.7  -21.0  138.0 / g = 0.998 err =  4.9 mm /
+#t = 188.000, #e = 0.00 cm, #g = 0.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.00 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 22/210 (#t = 191.000) ---
+Static bad channels (2): 1031 1111
+Time 189.000: cont HPI is off, using the previous head position!
+   20.4   99.5   69.9 /  19.9   99.8   69.7 / g = 0.996 err =  0.6 mm / 1.000 -0.025  0.014
+   74.1    6.4   97.4 /  75.1    6.5   97.8 / g = 0.999 err =  1.1 mm / 0.024  0.997  0.078
+  -77.3   -9.9   78.6 / -80.0   -9.1   81.3 / g = 0.999 err =  3.9 mm /-0.016 -0.078  0.997
+   14.3  -91.2   83.9 /  13.7  -91.6   83.7 / g = 0.999 err =  0.7 mm /   1.5  -12.5   56.3
+   18.9  -20.4  133.2 /  19.7  -21.0  138.0 / g = 0.998 err =  4.9 mm /
+#t = 189.000, #e = 0.00 cm, #g = 0.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.00 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 23/210 (#t = 192.000) ---
+Static bad channels (2): 1031 1111
+Time 190.000: cont HPI is off, using the previous head position!
+   20.4   99.5   69.9 /  19.9   99.8   69.7 / g = 0.996 err =  0.6 mm / 1.000 -0.025  0.014
+   74.1    6.4   97.4 /  75.1    6.5   97.8 / g = 0.999 err =  1.1 mm / 0.024  0.997  0.078
+  -77.3   -9.9   78.6 / -80.0   -9.1   81.3 / g = 0.999 err =  3.9 mm /-0.016 -0.078  0.997
+   14.3  -91.2   83.9 /  13.7  -91.6   83.7 / g = 0.999 err =  0.7 mm /   1.5  -12.5   56.3
+   18.9  -20.4  133.2 /  19.7  -21.0  138.0 / g = 0.998 err =  4.9 mm /
+#t = 190.000, #e = 0.00 cm, #g = 0.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.00 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 24/210 (#t = 193.000) ---
+Static bad channels (2): 1031 1111
+Time 191.000: cont HPI is off, using the previous head position!
+   20.4   99.5   69.9 /  19.9   99.8   69.7 / g = 0.996 err =  0.6 mm / 1.000 -0.025  0.014
+   74.1    6.4   97.4 /  75.1    6.5   97.8 / g = 0.999 err =  1.1 mm / 0.024  0.997  0.078
+  -77.3   -9.9   78.6 / -80.0   -9.1   81.3 / g = 0.999 err =  3.9 mm /-0.016 -0.078  0.997
+   14.3  -91.2   83.9 /  13.7  -91.6   83.7 / g = 0.999 err =  0.7 mm /   1.5  -12.5   56.3
+   18.9  -20.4  133.2 /  19.7  -21.0  138.0 / g = 0.998 err =  4.9 mm /
+#t = 191.000, #e = 0.00 cm, #g = 0.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.00 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 25/210 (#t = 194.000) ---
+Static bad channels (2): 1031 1111
+Time 192.000: cont HPI is off, using the previous head position!
+   20.4   99.5   69.9 /  19.9   99.8   69.7 / g = 0.996 err =  0.6 mm / 1.000 -0.025  0.014
+   74.1    6.4   97.4 /  75.1    6.5   97.8 / g = 0.999 err =  1.1 mm / 0.024  0.997  0.078
+  -77.3   -9.9   78.6 / -80.0   -9.1   81.3 / g = 0.999 err =  3.9 mm /-0.016 -0.078  0.997
+   14.3  -91.2   83.9 /  13.7  -91.6   83.7 / g = 0.999 err =  0.7 mm /   1.5  -12.5   56.3
+   18.9  -20.4  133.2 /  19.7  -21.0  138.0 / g = 0.998 err =  4.9 mm /
+#t = 192.000, #e = 0.00 cm, #g = 0.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.00 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 26/210 (#t = 195.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 193.000: 0.949 (16 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.9   68.7 / g = 0.999 err =  1.3 mm / 1.000 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.7   97.3 / g = 0.999 err =  1.1 mm / 0.031  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.1 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 193.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 27/210 (#t = 196.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 194.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 1.000 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.7   97.3 / g = 0.999 err =  1.1 mm / 0.031  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 194.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 28/210 (#t = 197.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 195.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 1.000 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.7   97.3 / g = 0.999 err =  1.1 mm / 0.031  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 195.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 29/210 (#t = 198.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 196.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 1.000 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.7   97.3 / g = 0.999 err =  1.1 mm / 0.031  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 196.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 30/210 (#t = 199.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 197.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 1.000 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.7   97.3 / g = 0.999 err =  1.1 mm / 0.031  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 197.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 31/210 (#t = 200.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 198.000: 1.000 (300 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 1.000 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.7   97.3 / g = 0.999 err =  1.1 mm / 0.031  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 198.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 32/210 (#t = 201.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 199.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 1.000 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.7   97.3 / g = 0.999 err =  1.1 mm / 0.031  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 199.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 33/210 (#t = 202.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 200.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 1.000 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.7   97.3 / g = 0.999 err =  1.1 mm / 0.031  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 200.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 34/210 (#t = 203.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 201.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 1.000 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.7   97.3 / g = 0.999 err =  1.1 mm / 0.031  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 201.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 35/210 (#t = 204.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 202.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 1.000 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.7   97.3 / g = 0.999 err =  1.1 mm / 0.031  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 202.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 36/210 (#t = 205.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 203.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 1.000 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.7   97.3 / g = 0.999 err =  1.1 mm / 0.031  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 203.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 37/210 (#t = 206.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 204.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 1.000 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.7   97.3 / g = 0.999 err =  1.1 mm / 0.031  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 204.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 38/210 (#t = 207.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 205.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.9   68.7 / g = 1.000 err =  1.3 mm / 1.000 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.7   97.3 / g = 0.999 err =  1.1 mm / 0.031  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 205.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 39/210 (#t = 208.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 206.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 1.000 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.7   97.3 / g = 0.999 err =  1.1 mm / 0.031  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 206.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 40/210 (#t = 209.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 207.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 1.000 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.7   97.3 / g = 0.999 err =  1.1 mm / 0.031  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 207.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 41/210 (#t = 210.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 208.000: 1.000 (300 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 1.000 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.7   97.3 / g = 0.999 err =  1.1 mm / 0.031  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 208.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 42/210 (#t = 211.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 209.000: 1.000 (300 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 1.000 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.7   97.3 / g = 0.999 err =  1.1 mm / 0.031  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 209.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 43/210 (#t = 212.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 210.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 1.000 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.7   97.3 / g = 0.999 err =  1.1 mm / 0.031  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 210.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 44/210 (#t = 213.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 211.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.9   68.7 / g = 1.000 err =  1.3 mm / 1.000 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.7   97.3 / g = 0.999 err =  1.1 mm / 0.031  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 211.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 45/210 (#t = 214.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 212.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 1.000 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.7   97.3 / g = 0.999 err =  1.1 mm / 0.031  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 212.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 46/210 (#t = 215.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 213.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 1.000 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.7   97.3 / g = 0.999 err =  1.1 mm / 0.031  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 213.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 47/210 (#t = 216.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 214.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 1.000 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.7   97.3 / g = 0.999 err =  1.1 mm / 0.031  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 214.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 48/210 (#t = 217.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 215.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 1.000 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.7   97.3 / g = 0.999 err =  1.1 mm / 0.031  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 215.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 49/210 (#t = 218.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 216.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 1.000 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.7   97.3 / g = 0.999 err =  1.1 mm / 0.031  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 216.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 50/210 (#t = 219.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 217.000: 1.000 (300 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 1.000 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.7   97.3 / g = 0.999 err =  1.1 mm / 0.031  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 217.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 51/210 (#t = 220.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 218.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 1.000 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.7   97.3 / g = 0.999 err =  1.1 mm / 0.031  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 218.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 52/210 (#t = 221.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 219.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 1.000 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.7   97.3 / g = 0.999 err =  1.1 mm / 0.031  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 219.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 53/210 (#t = 222.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 220.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 1.000 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.7   97.3 / g = 0.999 err =  1.1 mm / 0.031  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 220.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 54/210 (#t = 223.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 221.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 1.000 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.7   97.3 / g = 0.999 err =  1.1 mm / 0.031  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 221.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 55/210 (#t = 224.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 222.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 1.000 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.7   97.3 / g = 0.999 err =  1.1 mm / 0.031  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 222.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 56/210 (#t = 225.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 223.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 1.000 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.7   97.3 / g = 0.999 err =  1.1 mm / 0.031  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 223.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 57/210 (#t = 226.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 224.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 1.000 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.7   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 224.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 58/210 (#t = 227.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 225.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 1.000 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.7   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 225.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 59/210 (#t = 228.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 226.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 1.000 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.7   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 226.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 60/210 (#t = 229.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 227.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.7   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 227.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 61/210 (#t = 230.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 228.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.7   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 228.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 62/210 (#t = 231.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 229.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 229.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 63/210 (#t = 232.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 230.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.7   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 230.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 64/210 (#t = 233.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 231.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.7   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 231.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 65/210 (#t = 234.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 232.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.7   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 232.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 66/210 (#t = 235.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 233.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.9   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.7   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 233.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 67/210 (#t = 236.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 234.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.9   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 234.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 68/210 (#t = 237.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 235.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 235.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 69/210 (#t = 238.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 236.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.9   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 236.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 70/210 (#t = 239.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 237.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.9   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 237.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 71/210 (#t = 240.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 238.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.9   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 238.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 72/210 (#t = 241.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 239.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.9   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 239.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 73/210 (#t = 242.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 240.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.9   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 240.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 74/210 (#t = 243.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 241.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 241.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 75/210 (#t = 244.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 242.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 242.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 76/210 (#t = 245.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 243.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.9   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 243.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 77/210 (#t = 246.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 244.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 244.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 78/210 (#t = 247.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 245.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 245.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 79/210 (#t = 248.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 246.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.9   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 246.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 80/210 (#t = 249.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 247.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 247.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 81/210 (#t = 250.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 248.000: 1.000 (300 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.9   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 248.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 82/210 (#t = 251.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 249.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.9   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.4  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 249.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 83/210 (#t = 252.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 250.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.9   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 250.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 84/210 (#t = 253.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 251.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 251.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 85/210 (#t = 254.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 252.000: 1.000 (300 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 252.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 86/210 (#t = 255.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 253.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 253.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 87/210 (#t = 256.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 254.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 254.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 88/210 (#t = 257.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 255.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 255.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 89/210 (#t = 258.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 256.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 256.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 90/210 (#t = 259.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 257.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 257.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 91/210 (#t = 260.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 258.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 258.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 92/210 (#t = 261.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 259.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 259.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 93/210 (#t = 262.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 260.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 260.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 94/210 (#t = 263.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 261.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 261.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 95/210 (#t = 264.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 262.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 262.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 96/210 (#t = 265.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 263.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 263.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 97/210 (#t = 266.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 264.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 264.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 98/210 (#t = 267.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 265.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 265.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 99/210 (#t = 268.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 266.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 266.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 100/210 (#t = 269.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 267.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 267.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 101/210 (#t = 270.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 268.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 268.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 102/210 (#t = 271.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 269.000: 1.000 (300 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 269.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 103/210 (#t = 272.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 270.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.3  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 270.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 104/210 (#t = 273.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 271.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 271.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 105/210 (#t = 274.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 272.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 272.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 106/210 (#t = 275.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 273.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 273.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 107/210 (#t = 276.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 274.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 274.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 108/210 (#t = 277.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 275.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.2   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 275.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 109/210 (#t = 278.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 276.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 276.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 110/210 (#t = 279.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 277.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 277.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 111/210 (#t = 280.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 278.000: 1.000 (300 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 278.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 112/210 (#t = 281.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 279.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 279.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 113/210 (#t = 282.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 280.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 280.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 114/210 (#t = 283.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 281.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 281.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 115/210 (#t = 284.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 282.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 282.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 116/210 (#t = 285.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 283.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 283.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 117/210 (#t = 286.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 284.000: 1.000 (300 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 284.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 118/210 (#t = 287.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 285.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 285.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 119/210 (#t = 288.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 286.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 286.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 120/210 (#t = 289.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 287.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 287.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 121/210 (#t = 290.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 288.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 288.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 122/210 (#t = 291.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 289.000: 1.000 (300 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 289.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 123/210 (#t = 292.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 290.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 290.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 124/210 (#t = 293.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 291.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 291.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 125/210 (#t = 294.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 292.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 292.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 126/210 (#t = 295.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 293.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 293.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 127/210 (#t = 296.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 294.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 294.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 128/210 (#t = 297.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 295.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 295.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 129/210 (#t = 298.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 296.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 296.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 130/210 (#t = 299.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 297.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 297.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 131/210 (#t = 300.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 298.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 298.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 132/210 (#t = 301.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 299.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 299.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 133/210 (#t = 302.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 300.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 300.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 134/210 (#t = 303.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 301.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 301.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 135/210 (#t = 304.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 302.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 302.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 136/210 (#t = 305.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 303.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.9   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 303.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 137/210 (#t = 306.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 304.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 304.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 138/210 (#t = 307.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 305.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 305.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 139/210 (#t = 308.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 306.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 306.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 140/210 (#t = 309.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 307.000: 1.000 (300 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 307.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 141/210 (#t = 310.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 308.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 308.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 142/210 (#t = 311.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 309.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 309.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 143/210 (#t = 312.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 310.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 310.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 144/210 (#t = 313.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 311.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 311.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 145/210 (#t = 314.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 312.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 312.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 146/210 (#t = 315.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 313.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 313.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 147/210 (#t = 316.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 314.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 314.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 148/210 (#t = 317.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 315.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 315.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 149/210 (#t = 318.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 316.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 316.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 150/210 (#t = 319.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 317.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 317.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 151/210 (#t = 320.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 318.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 318.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 152/210 (#t = 321.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 319.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 319.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 153/210 (#t = 322.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 320.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 320.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 154/210 (#t = 323.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 321.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 321.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 155/210 (#t = 324.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 322.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 322.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 156/210 (#t = 325.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 323.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 323.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 157/210 (#t = 326.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 324.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 324.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 158/210 (#t = 327.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 325.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 325.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 159/210 (#t = 328.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 326.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.031 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 326.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 160/210 (#t = 329.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 327.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 327.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 161/210 (#t = 330.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 328.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.080
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 328.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 162/210 (#t = 331.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 329.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 329.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 163/210 (#t = 332.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 330.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.3 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 330.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 164/210 (#t = 333.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 331.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.9   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -21.0  136.8 / g = 1.000 err =  3.6 mm /
+#t = 331.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 165/210 (#t = 334.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 332.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.080  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 332.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 166/210 (#t = 335.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 333.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.079  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 333.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 167/210 (#t = 336.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 334.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.079  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -21.0  136.8 / g = 1.000 err =  3.6 mm /
+#t = 334.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 168/210 (#t = 337.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 335.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.079  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -21.0  136.8 / g = 1.000 err =  3.6 mm /
+#t = 335.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 169/210 (#t = 338.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 336.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.079  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -21.0  136.8 / g = 1.000 err =  3.6 mm /
+#t = 336.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 170/210 (#t = 339.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 337.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.079  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -21.0  136.8 / g = 1.000 err =  3.6 mm /
+#t = 337.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 171/210 (#t = 340.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 338.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.9   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.079  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -21.0  136.8 / g = 1.000 err =  3.6 mm /
+#t = 338.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 172/210 (#t = 341.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 339.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.079  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -21.0  136.8 / g = 1.000 err =  3.6 mm /
+#t = 339.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 173/210 (#t = 342.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 340.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.079  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -21.0  136.8 / g = 1.000 err =  3.6 mm /
+#t = 340.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 174/210 (#t = 343.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 341.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.9   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.079  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -21.0  136.8 / g = 1.000 err =  3.6 mm /
+#t = 341.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 175/210 (#t = 344.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 342.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.079  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -21.0  136.8 / g = 1.000 err =  3.6 mm /
+#t = 342.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 176/210 (#t = 345.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 343.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.6 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.079  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.1 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -21.0  136.8 / g = 1.000 err =  3.6 mm /
+#t = 343.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 177/210 (#t = 346.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 344.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.9   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.079  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -21.0  136.8 / g = 1.000 err =  3.6 mm /
+#t = 344.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 178/210 (#t = 347.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 345.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.7 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.079  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.1 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -21.0  136.8 / g = 1.000 err =  3.6 mm /
+#t = 345.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 179/210 (#t = 348.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 346.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.6 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.079  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.1 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -21.0  136.8 / g = 1.000 err =  3.6 mm /
+#t = 346.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 180/210 (#t = 349.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 347.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.6 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.079  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -21.0  136.8 / g = 1.000 err =  3.6 mm /
+#t = 347.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 181/210 (#t = 350.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 348.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.6 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.079  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.1 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -21.0  136.8 / g = 1.000 err =  3.6 mm /
+#t = 348.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 182/210 (#t = 351.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 349.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.6 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.079  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.1 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -21.0  136.8 / g = 1.000 err =  3.6 mm /
+#t = 349.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 183/210 (#t = 352.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 350.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.6 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.079  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.1 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -21.0  136.8 / g = 1.000 err =  3.6 mm /
+#t = 350.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 184/210 (#t = 353.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 351.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.6 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.079  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.1 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -21.0  136.8 / g = 1.000 err =  3.6 mm /
+#t = 351.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 185/210 (#t = 354.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 352.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.6 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.079  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.1 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -21.0  136.8 / g = 1.000 err =  3.6 mm /
+#t = 352.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 186/210 (#t = 355.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 353.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.6 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.079  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -21.0  136.8 / g = 1.000 err =  3.6 mm /
+#t = 353.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 187/210 (#t = 356.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 354.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.6 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.079  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -21.0  136.8 / g = 1.000 err =  3.6 mm /
+#t = 354.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 188/210 (#t = 357.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 355.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.6 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.079  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.1 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -21.0  136.8 / g = 1.000 err =  3.6 mm /
+#t = 355.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 189/210 (#t = 358.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 356.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.9   68.6 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.079  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.1 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -21.0  136.8 / g = 1.000 err =  3.6 mm /
+#t = 356.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 190/210 (#t = 359.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 357.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.9   68.6 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.079  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.1 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -21.0  136.8 / g = 1.000 err =  3.6 mm /
+#t = 357.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 191/210 (#t = 360.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 358.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.6 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.079  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.1 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -21.0  136.8 / g = 1.000 err =  3.6 mm /
+#t = 358.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 192/210 (#t = 361.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 359.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.9   68.6 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.079  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.1 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -21.0  136.8 / g = 1.000 err =  3.6 mm /
+#t = 359.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 193/210 (#t = 362.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 360.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.9   68.6 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.079  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.1 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -21.0  136.8 / g = 1.000 err =  3.6 mm /
+#t = 360.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 194/210 (#t = 363.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 361.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.6 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.079  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.1 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -21.0  136.8 / g = 1.000 err =  3.6 mm /
+#t = 361.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 195/210 (#t = 364.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 362.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.6 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.079  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.1 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -21.0  136.8 / g = 1.000 err =  3.6 mm /
+#t = 362.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 196/210 (#t = 365.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 363.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.9   68.6 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.079  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -21.0  136.8 / g = 1.000 err =  3.6 mm /
+#t = 363.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 197/210 (#t = 366.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 364.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.6 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.079  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.1 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -20.9  136.8 / g = 1.000 err =  3.6 mm /
+#t = 364.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 198/210 (#t = 367.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 365.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.6 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.079  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -21.0  136.8 / g = 1.000 err =  3.6 mm /
+#t = 365.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 199/210 (#t = 368.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 366.000: 1.000 (300 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.9   68.6 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.079  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -21.0  136.8 / g = 1.000 err =  3.6 mm /
+#t = 366.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 200/210 (#t = 369.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 367.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.6 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.079  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -21.0  136.8 / g = 1.000 err =  3.6 mm /
+#t = 367.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 201/210 (#t = 370.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 368.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.6 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.079  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.0 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -21.0  136.8 / g = 1.000 err =  3.6 mm /
+#t = 368.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 202/210 (#t = 371.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 369.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.9   68.6 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.079  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.1 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -21.0  136.8 / g = 1.000 err =  3.6 mm /
+#t = 369.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 203/210 (#t = 372.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 370.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.6 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.079  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.1 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -21.0  136.8 / g = 1.000 err =  3.6 mm /
+#t = 370.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 204/210 (#t = 373.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 371.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.6 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.079  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.1 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -21.0  136.8 / g = 1.000 err =  3.6 mm /
+#t = 371.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 205/210 (#t = 374.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 372.000: 1.000 (299 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.6 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.079  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.1 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -21.0  136.8 / g = 1.000 err =  3.6 mm /
+#t = 372.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 206/210 (#t = 375.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 373.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.6 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.079  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.1 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -21.0  136.8 / g = 1.000 err =  3.6 mm /
+#t = 373.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 207/210 (#t = 376.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 374.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.6 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.079  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.1 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -21.0  136.8 / g = 1.000 err =  3.6 mm /
+#t = 374.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 208/210 (#t = 377.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 375.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.6 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.079  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.1 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -21.0  136.8 / g = 1.000 err =  3.6 mm /
+#t = 375.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 209/210 (#t = 378.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 376.000: 1.000 (298 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.6 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.079  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.1 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -21.0  136.8 / g = 1.000 err =  3.6 mm /
+#t = 376.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 1100 samples.
+
+--- Reading raw tag #b = 210/210 (#t = 379.000) ---
+Static bad channels (2): 1031 1111
+HPI amplitude correlation 377.000: 1.000 (298 chnls > 0.95)
+HPI amplitude correlation 378.000: 1.000 (298 chnls > 0.95)
+HPI amplitude correlation 379.000: 0.992 (297 chnls > 0.95)
+Hpi fit OK, movements [mm/s] =  0.0 / 0.0 / 0.0 / 0.0 / 0.0 /
+   20.4   99.5   69.9 /  20.3   99.8   68.6 / g = 1.000 err =  1.3 mm / 0.999 -0.032 -0.005
+   74.1    6.4   97.4 /  75.1    6.8   97.4 / g = 0.999 err =  1.1 mm / 0.032  0.996  0.079
+  -77.3   -9.9   78.6 / -79.1   -9.1   78.2 / g = 1.000 err =  2.0 mm / 0.002 -0.079  0.997
+   14.3  -91.2   83.9 /  14.8  -92.1   82.1 / g = 0.999 err =  2.1 mm /   2.3  -12.7   54.5
+   18.9  -20.4  133.2 /  19.2  -21.0  136.8 / g = 1.000 err =  3.6 mm /
+#t = 377.000, #e = 0.20 cm, #g = 1.000, #v = 0.00 cm/s, #r = 0.00 rad/s, #d = 0.20 cm
+Static bad channels (2): 1031 1111
+SSS: 67/80 inside and 13/15 outside harmonic components.
+Processed raw data buffer with 3300 samples.
+
+Continuous HPI was active on 187/210 buffers.
+EXIT OK: Wrote successfully the result to file /imaging/dw01/meg_fix/subject_01/meg/run_03_sss.fif.

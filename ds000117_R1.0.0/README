@@ -1,0 +1,122 @@
+This dataset was obtained from the OpenfMRI project (http://www.openfmri.org).
+Accession #: ds117
+Description:  Multi-subject, multi-modal (sMRI+fMRI+MEG+EEG) neuroimaging dataset on face recognition
+
+Please cite the following references if you use these data:
+
+A multi-subject, multi-modal human neuroimaging dataset (in submission)
+
+Wakeman, D.G., Henson, R.N. (2010). Effective connectivity in face processing, as inferred from MEG, EEG and fMRI data (Vol. 17). Presented at the BIOMAG, Frontiers. doi:10.3389/conf.fnins.2010.06.00404
+
+Please see license.txt for information regarding the licensing of these data.
+
+Please see release_history.txt for a full release history.
+
+  Multi-subject, multi-modal (sMRI+fMRI+MEG+EEG) neuroimaging dataset on face recognition
+    ==================================================================================
+Each participant's directory contains 5-6 directories (# depends on the presence of DTI data). For errata pertaining to each individual's data, please see the bottom of this file (scanner/human errors during collection are detailed there). Those directories are described below:
+
+sub0**/
+=======
+Where the asterisks indicate the participant id #. openfmri.org has changed the participant id # from the original mapping to a new set of id #s. We provide this map below, so that if you are trying to compare this data to another previously released version of this dataset (which may not have included all of these participants), you can remap using this key.
+
+openfmri#     original#      first_scan
+sub001        subject_01     MEG
+sub002        subject_02     MEG
+sub003        subject_03     MEG     
+sub004        subject_05     MEG
+sub005        subject_06     MEG
+sub006        subject_08     MEG
+sub007        subject_09     MEG
+sub008        subject_10     MEG
+sub009        subject_11     MEG
+sub010        subject_12     MEG
+sub011        subject_14     MEG
+sub012        subject_15     MEG
+sub013        subject_16     MEG
+sub014        subject_17     MEG
+sub015        subject_18     MEG
+sub016        subject_19     MEG
+sub017        subject_23     MRI
+sub018        subject_24     MRI
+sub019        subject_25     MRI
+
+anatomy/
+--------
+This directory contains a gzipped NIFTI format MPRAGE titled: highres001.nii.gz. It also contains a subdirectory
+anatomy/FLASH/
+++++++++++++++
+This directory contains the 14 gzipped NIFTI files from two bandwidth matched Multi-Echo FLASH sequences (one at 5° and another at 30°). Unfortunately, due to the deficient nature of the NIFTI format critical information about these volumes is missing: the flip angle and the echo time. The flip angle (FA) is included in the filename: meflash_<FA>_*.nii.gz (the asterisk indicates which number echo (#e) it is: with the echo time corresponding to (1.85ms +(2.30ms x #e)).
+behav/
+------
+This directory contains a plain text file titled behav.txt. After each subject completed the MEG, they performed a simple behavioral test to determine if they recognized the faces they saw in the MEG experiment. The results of this test are organized in this comma delimited file:
+picture name, button press (1: not known; 2: familiar; 3: known), the length of time in ms before the button was pressed (note: for details please see our publication).
+BOLD/
+-----
+This directory contains a subdirectory for each run of the fMRI experiment. Each participant had nine runs. The directories are named task001_run00* (where the asterisk indicates the run number). This directory also contains a field map in three different nifti files and a T1 weighted EPI. The two magnitude fieldmap volumes are titled fm_m_0.nii.gz (TR=400, TE=5.19ms, FA=60), fm_m_1.nii.gz (TR=400, TE=7.65ms, FA=60). The phase fieldmap volume is titled fm_p.nii.gz (TR=400, TE=7.65, FA=60). The T1 weighted EPI is titled t1_epi.nii.gz (TR=2000ms, TE=95ms, TI=1200, FA=90). These sequence details are missing due to the conversion to NIFTI.
+
+BOLD/task001_run00*/
+++++++++++++++++++++
+This directory contains the raw fMRI data in a gzipped NIFTI: bold.nii.gz. It also contains a comma delimited text file. The fields are:
+stimulus type, computer time, time after presentation until button response ms, button pushed, length of presentation in ms,length of circle on screen in ms, the picture shown
+The experiment began at the third nifti volume (corresponding to 5 ignored scans: 3 forced siemens dummies (no files) and 2 included in the data).
+This directory also contains an openfmri.org QA directory (utilizing their structure and files).
+
+diffusion/
+----------
+This directory only exists for those participants with DTI data (GET A LIST AND PUT IT HERE). The diffusion weighted images are located in a gzipped NIFTI file called dwi.nii.gz. The B-vectors and B-values are located in a text file named subject_**.bvec and subject_**.bval (respectively).
+
+MEG/
+----
+Three anatomical fiducials were digitized for aligning the MEG with the MRI: the nasion 
+(lowest depression between the eyes) and the left and right ears (lowest depression 
+between the tragus and the helix, above the tragus). This procedure is illustrated here:
+http://neuroimage.usc.edu/brainstorm/CoordinateSystems#Subject_Coordinate_System_.28SCS_.2F_CTF.29
+http://www.nmr.mgh.harvard.edu/meg/manuals/MEG_users_manual_1202.pdf#page=16 
+
+This directory contains the MEG data for each of 6 runs:
+
+A raw Neuromag FIF file of continuous data for each of 6, ~9mins runs ("run_**_sss.fif") at 1.1Khz sampling from 102 magnetometers, 204 planar gradiometers and 70 EEG electrodes in a Elekta VectorView system, recorded on the first visit of each participant (except the last 3 participants who visited in the reverse order).
+
+A MaxFiltered version of each continuous file: run_0*_sss.fif, which has been movement-corrected using the proprietary MaxFilter v2.2 software that implements (temporal) Signal Space Separation.
+
+A text file log of the maxfilter command output: run_0*_sss_log.txt.
+
+A text file: subject_##_*.txt with details about the exact stimulus presented in each run: The first two three columns do not code for anything. The fourth column matches to the MEEG trigger codes, present in the fif files. While the fifth column lists the image name used in that run (these names match those of the images in the stimuli directories). Trigger codes 5, 6, 7, 13, 14, 15 code for faces, while codes 17, 18, 19 code for scrambled images.
+
+model/
+------
+This directory contains the model001 directory which follows the openfmri.org conventions, but does not contain any new information just conveniently organized information if you would like to replicate the openfmri.org team's validation of our results.
+
+Other Directories
+-----------------
+In addition to the subject tarballs, three other tarballs exist: one metadata tarball containing this file and the other openfmri metadata files.
+
+emptyroom
+---------
+This directory contains three different empty room MEG recordings (two from a date close to the MEEG recordings for the first 16 participants and one from a date close to the MEEG recordings for the last three participants). Two files are present for each of the three dates one raw file and one file processed using maxfilter.
+
+stimuli
+-------
+This contain two directories with the bmp images of the stimuli used in the MEG and MRI experiments:
+
+stimuli/meg/
+++++++++++++
+The .bmp files correspond to those described in the text subject_##_*.txt file in the sub0**/MEG/ directory. There are 6 additional images in this directory, which were used in the practice experiment to familiarize participants with the task.
+stimuli/mri/
+++++++++++++
+The .bmp files correspond to those described in the text 
+
+
+If you wish to publish any of these data, please acknowledge Daniel Wakeman and Richard Henson. The data has been published so far in:
+
+    Wakeman, D.G. & Henson, R.N. (2010). Functional and structural connectivity in face-processing: MEG, EEG, fMRI, MRI and DWI data. BioMag 2010 Conference.
+    (This is the Poster associated with the BioMag 2010 Data Competition Prize that these data were awarded).
+
+    Wakeman, D.G. & Henson, R.N. (in prep). A multi-subject, multi-modal human neuroimaging dataset.
+    (This will be the best citation to describe the basic paradigm and data).
+
+    Henson, R.N., Wakeman, D.G., Litvak, V. & Friston, K.J. (2011). A Parametric Empirical Bayesian framework for the EEG/MEG inverse problem: generative models for multisubject and multimodal integration. Frontiers in Human Neuroscience, 5, 76, 1-16.
+
+    Henson, R.N., Wakeman, D.G., Phillips, C. & Rowe, J. (2012). Effective Connectivity between OFA and FFA during face perception: DCM of evoked MEG, EEG and fMRI responses. HBM2012 Abstract.
+

@@ -1,0 +1,11 @@
+MEG_data
+________
+Each subject directory contains the following files:
+
+A MaxFiltered version of each continuous file: 
+sub-*_task-facerecognition_run-*_sss.fif, which has been 
+movement-corrected using the proprietary MaxFilter v2.2 software that implements 
+(temporal) Signal Space Separation.
+
+A text file log of the maxfilter command output: sub-*_task-facerecognition_run-*_sss_log.txt.
+
