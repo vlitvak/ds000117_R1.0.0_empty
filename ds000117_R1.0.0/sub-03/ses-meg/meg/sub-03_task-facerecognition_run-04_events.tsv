@@ -1,150 +1,148 @@
-Weight	Nested	Procedure	Trigger	image
-1		faces	13	meg/u046.bmp
-1		faces	14	meg/u046.bmp
-1		faces	13	meg/u022.bmp
-1		faces	5	meg/f133.bmp
-1		faces	6	meg/f133.bmp
-1		faces	5	meg/f035.bmp
-1		faces	13	meg/u150.bmp
-1		faces	5	meg/f072.bmp
-1		faces	17	meg/s058.bmp
-1		faces	15	meg/u022.bmp
-1		faces	17	meg/s055.bmp
-1		faces	5	meg/f105.bmp
-1		faces	6	meg/f105.bmp
-1		faces	7	meg/f035.bmp
-1		faces	17	meg/s040.bmp
-1		faces	15	meg/u150.bmp
-1		faces	13	meg/u059.bmp
-1		faces	14	meg/u059.bmp
-1		faces	7	meg/f072.bmp
-1		faces	17	meg/s051.bmp
-1		faces	18	meg/s051.bmp
-1		faces	19	meg/s058.bmp
-1		faces	17	meg/s064.bmp
-1		faces	19	meg/s055.bmp
-1		faces	5	meg/f038.bmp
-1		faces	17	meg/s118.bmp
-1		faces	18	meg/s118.bmp
-1		faces	19	meg/s040.bmp
-1		faces	13	meg/u037.bmp
-1		faces	14	meg/u037.bmp
-1		faces	5	meg/f067.bmp
-1		faces	13	meg/u119.bmp
-1		faces	14	meg/u119.bmp
-1		faces	19	meg/s064.bmp
-1		faces	13	meg/u073.bmp
-1		faces	7	meg/f038.bmp
-1		faces	5	meg/f122.bmp
-1		faces	6	meg/f122.bmp
-1		faces	17	meg/s023.bmp
-1		faces	18	meg/s023.bmp
-1		faces	17	meg/s132.bmp
-1		faces	18	meg/s132.bmp
-1		faces	7	meg/f067.bmp
-1		faces	5	meg/f107.bmp
-1		faces	6	meg/f107.bmp
-1		faces	5	meg/f120.bmp
-1		faces	15	meg/u073.bmp
-1		faces	13	meg/u085.bmp
-1		faces	13	meg/u044.bmp
-1		faces	17	meg/s147.bmp
-1		faces	17	meg/s043.bmp
-1		faces	18	meg/s043.bmp
-1		faces	17	meg/s047.bmp
-1		faces	18	meg/s047.bmp
-1		faces	7	meg/f120.bmp
-1		faces	17	meg/s072.bmp
-1		faces	15	meg/u085.bmp
-1		faces	13	meg/u058.bmp
-1		faces	15	meg/u044.bmp
-1		faces	13	meg/u130.bmp
-1		faces	19	meg/s147.bmp
-1		faces	17	meg/s104.bmp
-1		faces	17	meg/s138.bmp
-1		faces	5	meg/f119.bmp
-1		faces	19	meg/s072.bmp
-1		faces	13	meg/u012.bmp
-1		faces	14	meg/u012.bmp
-1		faces	15	meg/u058.bmp
-1		faces	5	meg/f145.bmp
-1		faces	15	meg/u130.bmp
-1		faces	5	meg/f028.bmp
-1		faces	6	meg/f028.bmp
-1		faces	19	meg/s104.bmp
-1		faces	5	meg/f082.bmp
-1		faces	6	meg/f082.bmp
-1		faces	19	meg/s138.bmp
-1		faces	17	meg/s070.bmp
-1		faces	7	meg/f119.bmp
-1		faces	13	meg/u040.bmp
-1		faces	14	meg/u040.bmp
-1		faces	13	meg/u091.bmp
-1		faces	14	meg/u091.bmp
-1		faces	7	meg/f145.bmp
-1		faces	13	meg/u078.bmp
-1		faces	14	meg/u078.bmp
-1		faces	5	meg/f071.bmp
-1		faces	13	meg/u014.bmp
-1		faces	14	meg/u014.bmp
-1		faces	19	meg/s070.bmp
-1		faces	5	meg/f136.bmp
-1		faces	17	meg/s025.bmp
-1		faces	18	meg/s025.bmp
-1		faces	17	meg/s003.bmp
-1		faces	18	meg/s003.bmp
-1		faces	17	meg/s063.bmp
-1		faces	18	meg/s063.bmp
-1		faces	7	meg/f071.bmp
-1		faces	17	meg/s034.bmp
-1		faces	5	meg/f143.bmp
-1		faces	7	meg/f136.bmp
-1		faces	5	meg/f050.bmp
-1		faces	13	meg/u056.bmp
-1		faces	14	meg/u056.bmp
-1		faces	5	meg/f086.bmp
-1		faces	17	meg/s137.bmp
-1		faces	19	meg/s034.bmp
-1		faces	17	meg/s004.bmp
-1		faces	7	meg/f143.bmp
-1		faces	5	meg/f089.bmp
-1		faces	6	meg/f089.bmp
-1		faces	7	meg/f050.bmp
-1		faces	13	meg/u045.bmp
-1		faces	17	meg/s067.bmp
-1		faces	18	meg/s067.bmp
-1		faces	7	meg/f086.bmp
-1		faces	5	meg/f005.bmp
-1		faces	6	meg/f005.bmp
-1		faces	19	meg/s137.bmp
-1		faces	13	meg/u015.bmp
-1		faces	19	meg/s004.bmp
-1		faces	13	meg/u031.bmp
-1		faces	14	meg/u031.bmp
-1		faces	13	meg/u007.bmp
-1		faces	14	meg/u007.bmp
-1		faces	15	meg/u045.bmp
-1		faces	13	meg/u148.bmp
-1		faces	17	meg/s105.bmp
-1		faces	18	meg/s105.bmp
-1		faces	5	meg/f149.bmp
-1		faces	15	meg/u015.bmp
-1		faces	13	meg/u136.bmp
-1		faces	14	meg/u136.bmp
-1		faces	5	meg/f011.bmp
-1		faces	13	meg/u008.bmp
-1		faces	15	meg/u148.bmp
-1		faces	17	meg/s027.bmp
-1		faces	17	meg/s026.bmp
-1		faces	18	meg/s026.bmp
-1		faces	7	meg/f149.bmp
-1		faces	13	meg/u086.bmp
-1		faces	5	meg/f016.bmp
-1		faces	6	meg/f016.bmp
-1		faces	7	meg/f011.bmp
-1		faces	5	meg/f144.bmp
-1		faces	6	meg/f144.bmp
-1		faces	15	meg/u008.bmp
-1		faces	5	meg/f027.bmp
-1		faces	6	meg/f027.bmp
-1		faces	19	meg/s027.bmp
+onset	duration	onset_sample	stim_type	trigger	stim_file
+24.381	0	24.931	Unfamiliar	13	meg/u046.bmp
+27.743	0	28.293	Unfamiliar	14	meg/u046.bmp
+31.308	0	31.858	Unfamiliar	13	meg/u022.bmp
+34.947	0	35.497	Famous	5	meg/f133.bmp
+38.567	0	39.117	Famous	6	meg/f133.bmp
+41.874	0	42.424	Famous	5	meg/f035.bmp
+45.329	0	45.879	Unfamiliar	13	meg/u150.bmp
+48.765	0	49.315	Famous	5	meg/f072.bmp
+52.385	0	52.935	Scrambled	17	meg/s058.bmp
+55.858	0	56.408	Unfamiliar	15	meg/u022.bmp
+59.405	0	59.955	Scrambled	17	meg/s055.bmp
+63.025	0	63.575	Famous	5	meg/f105.bmp
+66.59	0	67.14	Famous	6	meg/f105.bmp
+70.118	0	70.668	Famous	7	meg/f035.bmp
+73.536	0	74.086	Scrambled	17	meg/s040.bmp
+77.119	0	77.669	Unfamiliar	15	meg/u150.bmp
+80.702	0	81.252	Unfamiliar	13	meg/u059.bmp
+84.083	0	84.633	Unfamiliar	14	meg/u059.bmp
+87.501	0	88.051	Famous	7	meg/f072.bmp
+90.919	0	91.469	Scrambled	17	meg/s051.bmp
+94.245	0	94.795	Scrambled	18	meg/s051.bmp
+97.7	0	98.25	Scrambled	19	meg/s058.bmp
+101.173	0	101.723	Scrambled	17	meg/s064.bmp
+104.664	0	105.214	Scrambled	19	meg/s055.bmp
+108.137	0	108.687	Famous	5	meg/f038.bmp
+111.794	0	112.344	Scrambled	17	meg/s118.bmp
+115.231	0	115.781	Scrambled	18	meg/s118.bmp
+118.758	0	119.308	Scrambled	19	meg/s040.bmp
+122.25	0	122.8	Unfamiliar	13	meg/u037.bmp
+125.704	0	126.254	Unfamiliar	14	meg/u037.bmp
+129.288	0	129.838	Famous	5	meg/f067.bmp
+132.724	0	133.274	Unfamiliar	13	meg/u119.bmp
+136.307	0	136.857	Unfamiliar	14	meg/u119.bmp
+143.125	0	143.675	Unfamiliar	13	meg/u073.bmp
+146.671	0	147.221	Famous	7	meg/f038.bmp
+150.144	0	150.694	Famous	5	meg/f122.bmp
+153.635	0	154.185	Famous	6	meg/f122.bmp
+156.998	0	157.548	Scrambled	17	meg/s023.bmp
+160.545	0	161.095	Scrambled	18	meg/s023.bmp
+164.054	0	164.604	Scrambled	17	meg/s132.bmp
+167.509	0	168.059	Scrambled	18	meg/s132.bmp
+170.945	0	171.495	Famous	7	meg/f067.bmp
+174.455	0	175.005	Famous	5	meg/f107.bmp
+177.836	0	178.386	Famous	6	meg/f107.bmp
+181.384	0	181.934	Famous	5	meg/f120.bmp
+184.764	0	185.314	Unfamiliar	15	meg/u073.bmp
+188.329	0	188.879	Unfamiliar	13	meg/u085.bmp
+191.839	0	192.389	Unfamiliar	13	meg/u044.bmp
+195.22	0	195.77	Scrambled	17	meg/s147.bmp
+198.656	0	199.206	Scrambled	17	meg/s043.bmp
+202.037	0	202.587	Scrambled	18	meg/s043.bmp
+205.565	0	206.115	Scrambled	17	meg/s047.bmp
+209.001	0	209.551	Scrambled	18	meg/s047.bmp
+212.603	0	213.153	Famous	7	meg/f120.bmp
+216.003	0	216.553	Scrambled	17	meg/s072.bmp
+219.457	0	220.007	Unfamiliar	15	meg/u085.bmp
+222.783	0	223.333	Unfamiliar	13	meg/u058.bmp
+226.164	0	226.714	Unfamiliar	15	meg/u044.bmp
+229.803	0	230.353	Unfamiliar	13	meg/u130.bmp
+233.294	0	233.844	Scrambled	19	meg/s147.bmp
+236.749	0	237.299	Scrambled	17	meg/s104.bmp
+240.185	0	240.735	Scrambled	17	meg/s138.bmp
+243.768	0	244.318	Famous	5	meg/f119.bmp
+247.333	0	247.883	Scrambled	19	meg/s072.bmp
+250.806	0	251.356	Unfamiliar	13	meg/u012.bmp
+254.17	0	254.72	Unfamiliar	14	meg/u012.bmp
+257.734	0	258.284	Unfamiliar	15	meg/u058.bmp
+261.28	0	261.83	Famous	5	meg/f145.bmp
+264.79	0	265.34	Unfamiliar	15	meg/u130.bmp
+268.245	0	268.795	Famous	5	meg/f028.bmp
+271.663	0	272.213	Famous	6	meg/f028.bmp
+275.117	0	275.667	Scrambled	19	meg/s104.bmp
+278.59	0	279.14	Famous	5	meg/f082.bmp
+282.173	0	282.723	Famous	6	meg/f082.bmp
+285.665	0	286.215	Scrambled	19	meg/s138.bmp
+289.028	0	289.578	Scrambled	17	meg/s070.bmp
+292.39	0	292.94	Famous	7	meg/f119.bmp
+295.992	0	296.542	Unfamiliar	13	meg/u040.bmp
+299.539	0	300.089	Unfamiliar	14	meg/u040.bmp
+302.993	0	303.543	Unfamiliar	13	meg/u091.bmp
+306.485	0	307.035	Unfamiliar	14	meg/u091.bmp
+310.031	0	310.581	Famous	7	meg/f145.bmp
+313.522	0	314.072	Unfamiliar	13	meg/u078.bmp
+316.904	0	317.454	Unfamiliar	14	meg/u078.bmp
+320.34	0	320.89	Famous	5	meg/f071.bmp
+323.703	0	324.253	Unfamiliar	13	meg/u014.bmp
+327.249	0	327.799	Unfamiliar	14	meg/u014.bmp
+330.631	0	331.181	Scrambled	19	meg/s070.bmp
+334.011	0	334.561	Famous	5	meg/f136.bmp
+337.521	0	338.071	Scrambled	17	meg/s025.bmp
+340.994	0	341.544	Scrambled	18	meg/s025.bmp
+344.486	0	345.036	Scrambled	17	meg/s003.bmp
+347.867	0	348.417	Scrambled	18	meg/s003.bmp
+351.34	0	351.89	Scrambled	17	meg/s063.bmp
+354.813	0	355.363	Scrambled	18	meg/s063.bmp
+358.102	0	358.652	Famous	7	meg/f071.bmp
+361.63	0	362.18	Scrambled	17	meg/s034.bmp
+365.011	0	365.561	Famous	5	meg/f143.bmp
+368.668	0	369.218	Famous	7	meg/f136.bmp
+372.086	0	372.636	Famous	5	meg/f050.bmp
+375.559	0	376.109	Unfamiliar	13	meg/u056.bmp
+379.032	0	379.582	Unfamiliar	14	meg/u056.bmp
+382.597	0	383.147	Famous	5	meg/f086.bmp
+386.107	0	386.657	Scrambled	17	meg/s137.bmp
+389.414	0	389.964	Scrambled	19	meg/s034.bmp
+392.832	0	393.382	Scrambled	17	meg/s004.bmp
+396.213	0	396.763	Famous	7	meg/f143.bmp
+399.815	0	400.365	Famous	5	meg/f089.bmp
+403.38	0	403.93	Famous	6	meg/f089.bmp
+406.945	0	407.495	Famous	7	meg/f050.bmp
+410.473	0	411.023	Unfamiliar	13	meg/u045.bmp
+417.547	0	418.097	Scrambled	17	meg/s067.bmp
+420.91	0	421.46	Famous	7	meg/f086.bmp
+424.291	0	424.841	Famous	5	meg/f005.bmp
+427.765	0	428.315	Famous	6	meg/f005.bmp
+431.292	0	431.842	Scrambled	19	meg/s137.bmp
+434.912	0	435.462	Unfamiliar	13	meg/u015.bmp
+438.239	0	438.789	Scrambled	19	meg/s004.bmp
+441.675	0	442.225	Unfamiliar	13	meg/u031.bmp
+445.037	0	445.587	Unfamiliar	14	meg/u031.bmp
+448.474	0	449.024	Unfamiliar	13	meg/u007.bmp
+451.947	0	452.497	Unfamiliar	14	meg/u007.bmp
+455.309	0	455.859	Unfamiliar	15	meg/u045.bmp
+458.672	0	459.222	Unfamiliar	13	meg/u148.bmp
+462.017	0	462.567	Scrambled	17	meg/s105.bmp
+465.453	0	466.003	Scrambled	18	meg/s105.bmp
+468.926	0	469.476	Famous	5	meg/f149.bmp
+472.344	0	472.894	Unfamiliar	15	meg/u015.bmp
+475.706	0	476.256	Unfamiliar	13	meg/u136.bmp
+479.106	0	479.656	Unfamiliar	14	meg/u136.bmp
+482.689	0	483.239	Famous	5	meg/f011.bmp
+486.107	0	486.657	Unfamiliar	13	meg/u008.bmp
+489.47	0	490.02	Unfamiliar	15	meg/u148.bmp
+493.035	0	493.585	Scrambled	17	meg/s027.bmp
+496.6	0	497.15	Scrambled	17	meg/s026.bmp
+500.091	0	500.641	Scrambled	18	meg/s026.bmp
+503.601	0	504.151	Famous	7	meg/f149.bmp
+507.147	0	507.697	Unfamiliar	13	meg/u086.bmp
+510.657	0	511.207	Famous	5	meg/f016.bmp
+514.24	0	514.79	Famous	6	meg/f016.bmp
+517.768	0	518.318	Famous	7	meg/f011.bmp
+521.297	0	521.847	Famous	5	meg/f144.bmp
+524.825	0	525.375	Famous	6	meg/f144.bmp
+528.353	0	528.903	Unfamiliar	15	meg/u008.bmp
+531.955	0	532.505	Famous	5	meg/f027.bmp
+535.501	0	536.051	Famous	6	meg/f027.bmp
+539.066	0	539.616	Scrambled	19	meg/s027.bmp
