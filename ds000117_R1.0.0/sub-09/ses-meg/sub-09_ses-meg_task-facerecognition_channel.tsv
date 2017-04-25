@@ -1,0 +1,396 @@
+description	name	onlinefilter	samplingrate	status	type
+sensor gradiometer	MEG0113	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0112	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG0111	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0122	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0123	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG0121	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0132	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0133	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG0131	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0143	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0142	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG0141	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0213	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0212	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG0211	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0222	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0223	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG0221	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0232	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0233	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG0231	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0243	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0242	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG0241	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0313	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0312	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG0311	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0322	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0323	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG0321	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0333	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0332	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG0331	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0343	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0342	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG0341	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0413	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0412	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG0411	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0422	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0423	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG0421	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0432	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0433	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG0431	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0443	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0442	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG0441	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0513	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0512	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG0511	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0523	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0522	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG0521	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0532	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0533	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG0531	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0542	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0543	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG0541	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0613	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0612	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG0611	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0622	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0623	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG0621	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0633	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0632	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG0631	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0642	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0643	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG0641	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0713	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0712	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG0711	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0723	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0722	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG0721	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0733	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0732	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG0731	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0743	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0742	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG0741	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0813	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0812	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG0811	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0822	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0823	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG0821	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0913	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0912	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG0911	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0923	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0922	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG0921	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0932	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0933	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG0931	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0942	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG0943	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG0941	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1013	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1012	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG1011	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1023	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1022	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG1021	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1032	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1033	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG1031	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1043	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1042	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG1041	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1112	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1113	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG1111	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1123	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1122	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG1121	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1133	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1132	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG1131	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1142	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1143	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG1141	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1213	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1212	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG1211	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1223	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1222	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG1221	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1232	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1233	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG1231	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1243	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1242	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG1241	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1312	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1313	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG1311	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1323	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1322	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG1321	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1333	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1332	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG1331	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1342	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1343	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG1341	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1412	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1413	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG1411	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1423	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1422	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG1421	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1433	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1432	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG1431	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1442	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1443	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG1441	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1512	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1513	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG1511	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1522	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1523	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG1521	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1533	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1532	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG1531	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1543	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1542	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG1541	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1613	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1612	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG1611	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1622	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1623	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG1621	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1632	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1633	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG1631	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1643	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1642	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG1641	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1713	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1712	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG1711	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1722	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1723	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG1721	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1732	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1733	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG1731	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1743	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1742	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG1741	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1813	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1812	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG1811	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1822	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1823	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG1821	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1832	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1833	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG1831	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1843	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1842	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG1841	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1912	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1913	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG1911	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1923	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1922	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG1921	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1932	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1933	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG1931	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1943	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG1942	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG1941	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2013	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2012	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG2011	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2023	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2022	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG2021	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2032	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2033	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG2031	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2042	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2043	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG2041	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2113	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2112	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG2111	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2122	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2123	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG2121	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2133	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2132	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG2131	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2143	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2142	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG2141	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2212	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2213	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG2211	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2223	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2222	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG2221	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2233	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2232	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG2231	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2242	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2243	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG2241	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2312	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2313	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG2311	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2323	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2322	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG2321	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2332	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2333	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG2331	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2343	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2342	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG2341	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2412	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2413	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG2411	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2423	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2422	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG2421	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2433	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2432	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG2431	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2442	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2443	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG2441	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2512	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2513	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG2511	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2522	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2523	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG2521	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2533	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2532	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG2531	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2543	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2542	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG2541	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2612	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2613	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG2611	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2623	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2622	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG2621	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2633	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2632	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG2631	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2642	0.00-356.40	1100.000000	good	MEG
+sensor gradiometer	MEG2643	0.00-356.40	1100.000000	good	MEG
+magnetometer	MEG2641	0.00-356.40	1100.000000	good	MEG
+electro-encephalography channel	EEG001	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG002	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG003	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG004	0.00-356.40	1100.000000	bad	EEG
+electro-encephalography channel	EEG005	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG006	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG007	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG008	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG009	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG010	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG011	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG012	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG013	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG014	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG015	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG016	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG017	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG018	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG019	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG020	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG021	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG022	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG023	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG024	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG025	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG026	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG027	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG028	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG029	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG030	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG031	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG032	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG033	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG034	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG035	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG036	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG037	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG038	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG039	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG040	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG041	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG042	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG043	0.00-356.40	1100.000000	bad	EEG
+electro-encephalography channel	EEG044	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG045	0.00-356.40	1100.000000	bad	EEG
+electro-encephalography channel	EEG046	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG047	0.00-356.40	1100.000000	bad	EEG
+electro-encephalography channel	EEG048	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG049	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG050	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG051	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG052	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG053	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG054	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG055	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG056	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG057	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG058	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG059	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG060	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG061	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG062	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG063	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG064	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG065	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG066	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG067	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG068	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG069	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG070	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG071	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG072	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG073	0.00-356.40	1100.000000	good	EEG
+electro-encephalography channel	EEG074	0.00-356.40	1100.000000	good	EEG
+analogue trigger	STI101	0.00-356.40	1100.000000	good	TRIG
+analogue trigger	STI201	0.00-356.40	1100.000000	good	TRIG
+analogue trigger	STI301	0.00-356.40	1100.000000	good	TRIG
+miscellaneous channel	MISC201	0.00-356.40	1100.000000	good	MISC
+miscellaneous channel	MISC202	0.00-356.40	1100.000000	good	MISC
+miscellaneous channel	MISC203	0.00-356.40	1100.000000	good	MISC
+miscellaneous channel	MISC204	0.00-356.40	1100.000000	good	MISC
+miscellaneous channel	MISC205	0.00-356.40	1100.000000	good	MISC
+miscellaneous channel	MISC206	0.00-356.40	1100.000000	good	MISC
+miscellaneous channel	MISC301	0.00-356.40	1100.000000	good	MISC
+miscellaneous channel	MISC302	0.00-356.40	1100.000000	good	MISC
+miscellaneous channel	MISC303	0.00-356.40	1100.000000	good	MISC
+miscellaneous channel	MISC304	0.00-356.40	1100.000000	good	MISC
+miscellaneous channel	MISC305	0.00-356.40	1100.000000	good	MISC
+miscellaneous channel	MISC306	0.00-356.40	1100.000000	good	MISC
